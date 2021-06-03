@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To our royal King's sacred Majesty, the Right Honourable House of Lords spiritual and temporal, and to the Honourable the Commons of England assembled in Parliament, the humble complaint of James Percy claimant as cousin and next heir male to Joscelin Percy late Earl of Northumberland, deceased ...</title>
+            <author>Percy, James, 1619-1690?</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28002</idno><idno type="EEBO-CITATION">99885457</idno>
+  <idno type="VID">194196</idno>
+  <idno type="EEBO-PROQUEST">2248536269</idno>
+  
+            <idno type="STC">Wing P1461</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[392]</idno>
+            <idno type="STC">ESTC R223253</idno>
+            <idno type="PROQUEST">ocm99885457</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885457e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194196)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[393])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To our royal King's sacred Majesty, the Right Honourable House of Lords spiritual and temporal, and to the Honourable the Commons of England assembled in Parliament, the humble complaint of James Percy claimant as cousin and next heir male to Joscelin Percy late Earl of Northumberland, deceased ...</title>
+                  <author>Percy, James, 1619-1690?</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Percy, James, 1619-1690? --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:194196:1"/>
+            <head>To Our Royal King's Sacred Majesty, the Right Honourable House of Lords Spiritual and Temporal, and to the Honourable the Commons of ENGLAND Assembled in PARLIAMENT, <hi>The Humble Complaint of JAMES PERCY Claimant as Cousin and next Heir Male to JOSCELIN PERCY Late Earl of</hi> NORTHUMBERLAND, <hi>Deceased,</hi>
+            </head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THat this following printed paper was prepared since the last Sessions of Parliament; and the first of them was presented into the Kings sacred hand: and it was only intended to inform the world, that the Claimant <hi>JAMES PERCY</hi> still continues his Claim, notwithstanding his Adversaries set him forth as an Impostor in the <hi>Gazet.</hi>
+            </p>
+            <p>Upon a Tryal had at the <hi>Kings Bench</hi> Bar the <hi>15th.</hi> day of <hi>April</hi> 1676. It was posi<g ref="char:EOLhyphen"/>tively proved by able and substantial Witnesses, that <hi>James Percy</hi> is Cousin and next Heir Male to <hi>Joscelin Percy</hi> late Earl of <hi>Northumberland,</hi> Deceased.</p>
+            <p>Notwithstanding that Illegal publishing him an Impostor in the <hi>Gazet,</hi> not only in the <hi>English,</hi> but in the <hi>French</hi> Tongue also.</p>
+            <p>And the Countess of <hi>Northumberlands</hi> Agents did second the <hi>Gazets;</hi> for in their Courts they gave in special charge to the Jury, to take notice of one <hi>Percy</hi> a pre<g ref="char:EOLhyphen"/>tender to the Title, but his Name was not so, for he was a Deceiver, an Impostor, and a branded Person, with many more reviling words: Truth is, by Gods Provi<g ref="char:EOLhyphen"/>dence, he was born into the World with a Mole like a Half-moon upon his Body, therefore no Brand, but it signifies a <hi>Crescent,</hi> which belongs to the <hi>Percies</hi> Arms; And it is reported he is not the first that hath been so born of that Family.</p>
+            <p>But when Mr. <hi>Clark</hi> the Defendant, the Countess of <hi>Northumberland</hi> her chief Trustee, saw their Priviledge fail'd, and the Tryal must be had in <hi>Trinity Term</hi> 1674. then the Defendants Counsel did offer <hi>Percies</hi> (the Plaintiff) Counsel, if they would set aside the Tryal, they would own the Plaintiff <hi>James Percy</hi> to be the true Heir, against all opposers, and assist him with their Pedigree, Books and Records; and when the Counsels were met, it was demanded what Security would they give to perform their promise: They reply'd, <hi>Percy</hi> must take their words for the perform<g ref="char:EOLhyphen"/>ance thereof; But <hi>Percy</hi> replyed, no, he would have the Tryal, if it was but to wash that Dirt off, which the <hi>Gazet,</hi> and their evil Actions had thrown upon him: But at the Tryal his Witnesses not appearing, he was forc'd to suffer a Non-suit, yet it was by the advice and favour of the Court; For the Lord Chief Justice <hi>Hales</hi> stood up, and said, That the Plaintif had proved himself a true <hi>Percy</hi> of the Blood and Family of the <hi>Percies</hi> of <hi>Northumberland,</hi> Legitimate by Father, Mother, Grandfather and Grandmother, and they did verily believe that he was Cousin and next Heir Male to <hi>Joscelin Percy</hi> the late Earl of <hi>Northumberland;</hi> only they feared he had taken his Descent a little too low; and so it fell out: And no wonder, consider<g ref="char:EOLhyphen"/>ing how the Claimant hath been misguided, and how ignorant he was in his own con<g ref="char:EOLhyphen"/>cerns. But now his Great Grandfather is proved, by one that kept the <hi>Percies</hi> Books and Records, That the Plaintif having fully proved his Pedigree; by advice of Counsel it was thought good to proceed no further: First, by reason the Estate must attend the Title. Secondly, the Plaintif was not prepared; For the Defendent had the Books and Records.</p>
+            <p>To make things clear to the world, and to demonstrate our Most Gracious King, and the Duke of <hi>Monmouths</hi> Innocency, and to satisfie all Loyal Souls, and true hearted Subjects; and to stop the mouths of all those that are subject to mutter and murmur, before they understand the Cause.</p>
+            <p>
+               <hi>First,</hi> The Kings Majesties Gracious Answer to the Claimants several Petitions; was, God forbid that He should hinder an Heir, but that he should have the benefit of the Law.</p>
+            <p>
+               <hi>Secondly,</hi> Now the Query is of those People that are not easily satisfyed; why then doth the King give the Estate and Title to the Duke of <hi>Monmouth</hi> and several others, that have Beg'd of His Majesty?</p>
+            <p>
+               <hi>Answ.</hi> By the above Complaint, all Judicious men may easily perceive His Majesty hath been mis-informed: Nevertheless the King is so Gracious, that all his Gifts are Bounded so, as with a saving (if there be no Heir Male.)</p>
+            <p>It is true, the several Grants and Patents: And the Power and Potency of those that are concern'd. This makes Kindred and Friends, and Loyal and true Hearted Subjects, fear that Might will overcome Right: Moreover, it puts a Fear in some of his Lawyers, and some of his Counsels are fallen from his Innocent Cause, to the o<g ref="char:EOLhyphen"/>ther side, which forces him to Cite this following President.</p>
+            <p>The Kings Charter cannot enable the Pattentee to bring an Action which the Common Law allows not, <hi>Mich.</hi> 23 <hi>Car. B. R.</hi> For the King cannot alter the Common Law, or the Proceedings thereof, by Charter, for this were to usurp upon the Peo<g ref="char:EOLhyphen"/>ples Birth-right.</p>
+            <p>The Actings of the Duke of <hi>Monmouths</hi> Agents, and the Countesses Agents, would be well considered and taken special notice of, for when Priviledge was in; they stood upon their Priviledges so, as the Claimant could do nothing; and now the Claimant <hi>James Percy</hi> hath proved his Pedigree, and was resolved to go on to a Tryal this Summer Assizes, with that Suit he had commenced against those Lands the Duke had recovered of the Countess at a Tryal at the <hi>Common-Pleas</hi> Barr. But now Mr. <hi>Ross</hi> is dead, whom the Duke made Defendant in the Suit; so that it hath given them a new advantage to delay, and it may be till Priviledge comes in again, by which means, the true Heir is forced to deliver new Declarations in Ejectments; and the Dukes Agents, and the Countesses Agents are most furiously driving on.</p>
+            <p>As for the Duke of <hi>Monmouths</hi> Innocency, the Claimant cannot but make it known to the world, the Claimants Sollicitor propounds a Match betwixt a Lords Daughter and <hi>Percies</hi> eldest Son; pretending this would create Friends in Court; so this Lord and the Sollicitor contrived the Business, so as the Lands were begg'd in the Duke of <hi>Monmouths</hi> Name: When in truth the Duke was in <hi>France;</hi> therefore supposed, the Duke then knew nothing of it; and as for <hi>Percy</hi> it was altogether unknown to him, and quite contrary to his mind; for <hi>Percy</hi> being angry with the Sollicitor, said, This is a strange way of creating Friends, it will the rather multiply Enemies: for how shall we be able to contend against the Duke of <hi>Monmouth?</hi> saith the Sollicitor, my Lord and the Duke is all one, and the Lord durst not beg it in his own Name; and therefore made use of the Dukes Name; but upon the Match the Duke would return the Lands again; but what the Claimant feared, came to pass; for they pretended that all the Lands were but begg'd in Jest; but they endeavour to keep them in Earnest.</p>
+            <p>It is the Lord that turns the Hearts of Kings at his pleasure: and puts the Ballance of Justice into their hands; and gives them wisdom to discern between Truth and Falshood, and he doubts not but as God hath restored our Royal King, even when our stock of hopes was almost spent; so in Gods due time the King will be Graciously pleased to restore a Loyal Subject, even when his stock of Patience and Estate too is almost spent; he hath been 6 years on this Concern; as the Moon is counted the Faithful Witness among the Planets of Heaven; so may the <hi>Percies</hi> prove Faithful Subjects among the Peers on Earth: And that they may with a good Courage stand up for the Glory of God: The Honour of the King: The good of the Country: And every ones Birth-right, as well as their own: And God will bless and prosper those people, that shall pray with a good Heart, That the Kings just Rights, the Antient Laws of <hi>England,</hi> and the <hi>Percies</hi> Name may continue to the worlds end; For his Name is Prov'd <hi>James Percy;</hi> Legitimate, and next Heir Male, rightly de<g ref="char:EOLhyphen"/>scended in a collateral Line to the <hi>Percies</hi> of <hi>Northumberland.</hi>
+            </p>
+            <p>Now it may well be remembred, that the former Printed Papers that was present<g ref="char:EOLhyphen"/>ed to the Honourable House of Parliament, that in them the Claimant <hi>James Percy,</hi> prayed that no Act might pass the two Houses of Parliament concerning the Title, and the Estate belonging to the Earldom of <hi>Northumberland,</hi> until the Claimants Right, Title and Pedigree was fully tryed, and proved, whether he was the true Heir Male, rightly descended in the collateral Line or not: and also he did set forth how dubious it was for the Claimant to prove his descent: and also further Prayed, that the Parliament would be Graciously pleased to take it into their serious considerati<g ref="char:EOLhyphen"/>ons, and to make some speedy provision herein by reason the Court of Wards is put down. And there is now in such Cases no Inquisitions <hi>post mortem</hi> in force: As was formerly in use: if a Court be put down, and nothing set up to preserve that which was good and convenient in it, it is very hard. And the Claimant hath found it so, and fears, the like may fall upon some of your Families another day, if it be not timely prevented; You may likewise remember, that the Claimants Cause was be<g ref="char:EOLhyphen"/>fore the Honourable House of Commons; and upon the hearing, it was Adjourned for a further debate for a fortnight; and upon the very day appointed the Parliament was Prorogued, and therefore nothing was done.</p>
+            <p>
+               <hi>He therefore most Humbly Prays, that the Kings Sacred Majesty, and the Right Ho<g ref="char:EOLhyphen"/>nourable Lords Spiritual and Temporal, will be Graciously pleased to order, that a Committee of knowing, Worthy and Just men, of the Honourable House of Commons, may be Nominated and set apart, to sit, and moderately to examine the Claimants Witnesses, and that their evidence may be preserved, and stand upon Record; and accordingly to return their Reports; If the Pedigree of the Claimant be proved, that then the Claimant</hi> James Percy <hi>may be recommended by the Honourable House of Commons, to the Right Honourable House of Peers, to take the place and Seat of his Ancestors, according to his Birth-right and Title; and that the Lands which were beg'd, might be restored to the Title and Earldom of</hi> Northumberland <hi>again, with<g ref="char:EOLhyphen"/>out the extremity of Suits at Law. Delay of Justice is more Terror to a Heroick Soul then Torments or Death; If he be the true Heir, why should he not enjoy his Birth-right, if his adversaries can prove him a deceiver, then give him the punish<g ref="char:EOLhyphen"/>ments due to an Impostor: he hath been now near seven years upon these concerns. If these complaints be put to a Period, and Justice and Right be obtained and had,</hi>
+            </p>
+            <closer>He shall ever Pray, <hi>&amp;c.</hi>
+               <signed>JAMES PERCY.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
